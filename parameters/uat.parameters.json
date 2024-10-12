@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "zaltayan-dbsrv-dev"
+            "value": "zaltayan-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "zaltayan-db-dev"
+            "value": "zaltayan-db-uat"
         },
         "appServicePlanName": {
-            "value": "zaltayan-asp-dev"
+            "value": "zaltayan-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "zaltayan-be-dev"
+            "value": "zaltayan-be-uat"
         },
         "appServiceAppName": {
-            "value": "zaltayan-fe-dev"
+            "value": "zaltayan-fe-uat"
         },
         "location": {
             "value": "North Europe"
